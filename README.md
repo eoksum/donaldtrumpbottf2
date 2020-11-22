@@ -13,7 +13,7 @@ Header tells it all. This ain't a cheat. It just sends Donald Trump's words into
 # USAGE STEPS
 **1-)** Change Team Fortress 2 keyboard layout and set Forward, Backward, Left and Right keystrokes to direction keys. With this setting, you can keep playing while sending constant Donald Trump Quotes into chat.
 
-**2-)** Install Python3 _(If you don't have it already)_
+**2-)** Download and Install Python3 _(If you don't have it already)_
 After installing Python3, ensure you also have requests, pynput, keyboard libraries installed as well since we depend on them.
 You can do this with a single command to CMD or Terminal:
 
