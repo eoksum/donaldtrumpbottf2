@@ -5,7 +5,10 @@ A bot for Team Fortress 2, programmed with Python, which sends random Donald Tru
 **Link comes here soon**
 
 # NOT GUARANTEED
-You **might** get banned from some servers, or in casual you might get vote-kicked.
+You **might** get banned from some servers, or in casual you might get vote-kicked. Im not responsible for the shit-storm anyone might cause by using this tool I created for joking purposes only. I recommend not to be annoying to people trying to have good time in their pastime.
+
+# THIS AIN'T A CHEAT
+Header tells it all. This ain't a cheat. It just sends Donald Trump's words into game's chat. Don't be dissapointed.
 
 # USAGE STEPS
 **1-)** Change Team Fortress 2 keyboard layout and set Forward, Backward, Left and Right keystrokes to direction keys. With this setting, you can keep playing while sending constant Donald Trump Quotes into chat.
@@ -24,5 +27,8 @@ You can do this with a single command to CMD or Terminal:
 You can set arguments to code. If you want to be annoying, add --taunt parameter to your code. You can also set a time interval for each message with --time *_IN SECONDS_* parameter.
 
 **6-)** Play. Have fun and don't be too much annoying. You can run this on 'friendly' TF2 lobbies but it might be annoying on others. I wouldn't.
+
+# Editing
+You can freely edit this code.
 
 Thank you, and have fun.
